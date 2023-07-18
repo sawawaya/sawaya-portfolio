@@ -172,6 +172,11 @@ footer p {
     color: #fff;
 }
 
+.comment {
+    width: 700px;
+    margin: 0 auto;
+}
+
 .banner {
     pointer-events: none;
 }
@@ -229,6 +234,10 @@ footer p {
     .main-visual img, 
     .sub-visual1 img,
     .sub-visual2 img {
+        width: 80%;
+    }
+
+    .comment {
         width: 80%;
     }
 
